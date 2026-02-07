@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student of Higher Mathematics<br>I am good in statistics and mathemtical problem solving<br>I am learning Machine learning. <br>I want to become an AI Engineer.<br>Write now I am learning new skills and bulding selfmade projects. <br><br>
+Hi, I’m Janya, a higher mathematics student, with a very strong foundation in probability, statistics, and linear algebra. Over the last few months I’ve been learning Python for data analysis and machine learning.<br><br>I’ve started applying it with data tools, and I’m serious enough that I built projects on my own. I’m looking for opportunities where I can apply my quantitative skills, work with real datasets, and learn from experienced data scientists.<br><br>
 
 
 ## 🌐 Socials:
@@ -11,6 +11,17 @@ I am a student of Higher Mathematics<br>I am good in statistics and mathemtical 
 ![](https://github-readme-stats.vercel.app/api?username=Janya-prakash&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Janya-prakash&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Janya-prakash&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Janya-prakash&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Janya-prakash&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Janya-prakash&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Janya-prakash&limit=5&theme=dark&combine_all_yearly_contributions=true)
